@@ -30,7 +30,7 @@ L'intention est bonne mais comme j'expliquais, ce qui nous intéresse ce sont le
 
 ### Comment on vote du coup ?
 Tout d'abord, il faut transférer tes coins d'un site d'échange au wallet. L'adresse de ton wallet se trouve ici sur l'interface :
-https://image.prntscr.com/image/lwX1bnbqStq9svZXrMAmoQ.png
+[Ici](https://image.prntscr.com/image/lwX1bnbqStq9svZXrMAmoQ.png)
 
 Après cela il faut se rendre dans le menu "Forger" puis cliquer sur "Délegué" et la on peut écrire le nom des pools et les selectionner au fur et à mesure. Vous pouvez voir la liste en cours en cliquant sur "Voir la selection". Attendez d'en avoir 33 avant de voter !
 
