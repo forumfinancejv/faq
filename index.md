@@ -71,6 +71,9 @@ Voici la liste :
 
 Certains ne sont pas encore top 101 mais ils vont le devenir rapidemment. 
 
+### Quand est-ce que je suis payé ?
+Cela dépend des pools. Certaines c'est tous les jours, d'autres toutes les semaines, d'autres encore tous les mois. Chacune à son fonctionnement. 
+
 ### J'y gagne quoi concrètement ?
 Pas grand chose, c'est certain. Mais si vous êtes destiné à hold du shift, c'est mieux que laisser dormir son argent sur bittrex. Ensuite cela dépend du nombre votant, vous n'aurez jamais le même montant de shift. Avec 100 shifts hold, je pense que l'on peut espérer  1,5 shift par mois à ce jour. 
 
