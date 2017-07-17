@@ -5,19 +5,19 @@ Shift est une monnaie en dPoS (Delegate Proof of Stake).
 
 ### C'est quoi Delegate Proof of Stake ?
 C'est l'une des meilleurs façons de distribuer une crypto-monnaie. C'est rapide, efficient, décentralisé et très flexible.
-Le pouvoir de distribution est entre les mains de ceux qui possèdent les shifts. Chaque possesseur de shift à le pouvoir d'élire ceux que l'on appele les delegates. Ce sont les delegates qui vont générer les shifts. 
+Le pouvoir de distribution est entre les mains de ceux qui possèdent les shifts. Chaque possesseur de shift à le pouvoir d'élire ceux que l'on appelle les delegates. Ce sont les delegates qui vont générer les shifts. 
 
 ### Comment ça marche exactement ?
-Les personnes élus (les delegates) utilisent le client "shift" développé par les développeurs et forge la monnaie. Ensuite la monnaie est réparti équitablement entre tous les delegates. Seulement le top 101 delegate peut forger ces shifts. Il faut posséder ou louer un serveur qui tourne de façon inintérompus pour être delegate. 
+Les personnes élues (les delegates) utilisent le client "shift" développé par les développeurs et forgent la monnaie. Ensuite la monnaie est réparti équitablement entre tous les delegates. Seulement le top 101 delegate peut forger ces shifts. Il faut posséder ou louer un serveur qui tourne de façon ininterrompus pour être delegate. 
 
-### Comment ça marche le top 101 delegate ?
-Ce qui détermine le classement des delegates, ce sont les votes que l'on attribut à chaque delegate. Le top 101 est tout simplement les delegate qui ont le plus de "vote power" à leur actif. Il existe environ 450 delegates sur le réseau Shift. 
+### Comment marche le top 101 delegate ?
+Ce qui détermine le classement des delegates, se sont les votes que l'on attribue à chaque delegate. Le top 101 est tout simplement les delegate qui ont le plus de "vote power" à leur actif. Il existe environ 450 delegates sur le réseau Shift. 
 
 ### Vote power ?
-Derrière chaque vote, on vote avec la puissance de son wallet. Par exemple un un wallet possèdant 10 000 shifts aura un poid équivalent par rapport à 100 personnes qui possèdent un wallet de 100 shift chacun (100x100 = 10 000 shifts de vote power). 
+Derrière chaque vote, on vote avec la puissance de son wallet. Par exemple un wallet possèdant 10 000 shifts aura un poid équivalent par rapport à 100 personnes qui possèdent un wallet de 100 shift chacun (100x100 = 10 000 shifts de vote power). 
 
 ### Comment créer un wallet ?
-L'équipe de développeur Shift n'a pa encore développer de wallet local mais c'est prévu. Ils n'ont qu'un wallet online pour le moment :  [Ici](https://wallet.shiftnrg.org/). Vous cliquez sur "Nouveau compte" puis vous sauvegardez quelque part sur votre PC ou une clef usb la liste de mots que l'on vous donne. Cela sera votre mot de passe pour entrer sur votre wallet. 
+L'équipe de développeur Shift n'a pas encore développer de wallet local mais c'est prévu. Ils n'ont qu'un wallet online pour le moment :  [Ici](https://wallet.shiftnrg.org/). Vous cliquez sur "Nouveau compte" puis vous sauvegardez quelque part sur votre PC ou une clef usb la liste de mots que l'on vous donne. Cela sera votre mot de passe pour entrer sur votre wallet. 
 
 ### J'ai entendu parler de pool, c'est quoi la différence avec un delegate ?
 Une pool est un delegate qui reverse un montant de ces gains à ses votants. C'est une façon de remercier les votants d'avoir voter pour lui. Cela fait fonctionner le réseau également. 
