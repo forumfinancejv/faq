@@ -31,9 +31,37 @@ https://image.prntscr.com/image/lwX1bnbqStq9svZXrMAmoQ.png
 
 Après cela il faut se rendre dans le menu "Forger" puis cliquer sur "Délegué" et la on peut écrire le nom des pools et les selectionner au fur et à mesure. Vous pouvez voir la liste en cours en cliquant sur "Voir la selection". Attendez d'en avoir 33 avant de voter !
 
-Voici la liste des pools qui payent :
+Voici la liste des pools qui payent (30) :
 
 - forumfinancejv (ça c'est moi)
-- 
+- seatrips
+- gregorst
+- official_pool
+- shiftraider
+- djandre
+- shiftspider
+- sio34
+- shiftpool
+- dimm86
+- stefanoproxy_pool
+- ampsicora
+- redpool
+- shozay_pool
+- vekexasia
+- trnp
+- kiashaan_amz
+- yondz
+- bitmyst
+- swminer90
+- hongkie
+- mg_pool
+- swimming_pool
+- peanhoy
+- ghostfaceuk
+- bran
+- kanieloutis
+- shiftcow
+- worldcoinpool
+- worldshift
 
-
+Certains ne sont pas encore top 101 mais ils vont le devenir rapidemment. 
