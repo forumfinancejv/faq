@@ -1,3 +1,5 @@
+
+
 ## FAQ SHIFT
 
 ### Comment sont générés les "Shift" ?
@@ -67,4 +69,6 @@ Voici la liste des pools qui payent (30) :
 - worldcoinpool
 - worldshift
 
-Certains ne sont pas encore top 101 mais ils vont le devenir rapidemment. 
+Certains ne sont pas encore top 101 mais ils vont le devenir rapidemment. Une lotterie sera mise en place chaque semaine une fois la pool "forumfinancejv" dans le top 101. Cette lotterie sera exclusivemment pour le forum.
+
+Donation (shift) si vous avez apprécié la FAQ : 2628113835314385086S
