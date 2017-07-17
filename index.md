@@ -1,6 +1,3 @@
-
-</br>
-
 ## FAQ SHIFT
 
 ### Comment sont générés les "Shift" ?
