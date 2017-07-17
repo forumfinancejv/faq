@@ -1,9 +1,9 @@
-## FAQ SHIFT
+# FAQ SHIFT
 
-### Comment sont générés les "Shift" ?
+## Comment sont générés les "Shift" ?
 Shift est une monnaie en dPoS (Delegate Proof of Stake). 
 
-### C'est quoi Delegate Proof of Stake ?
+## C'est quoi Delegate Proof of Stake ?
 C'est l'une des meilleurs façons de distribuer une crypto-monnaie. C'est rapide, efficient, décentralisé et très flexible.
 Le pouvoir de distribution est entre les mains de ceux qui possèdent les shifts. Chaque possesseur de shift à le pouvoir d'élire ceux que l'on appele les delegates. Ce sont les delegates qui vont générer les shifts. 
 
