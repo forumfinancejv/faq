@@ -80,3 +80,13 @@ Pour palier ce gain assez pauvre j'organiserais une lotterie toutes les semaines
 Une lotterie sera mise en place chaque semaine une fois la pool "forumfinancejv" dans le top 101. Cette lotterie sera exclusivemment pour le forum. A terme on peut espérer un gain de 30 shifts par semaine pour une personne tirée au hasard sur le forum. 
 
 Donation (shift) si vous avez apprécié la FAQ : 2628113835314385086S
+
+
+
+
+
+
+
+
+
+
