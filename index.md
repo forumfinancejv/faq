@@ -17,7 +17,7 @@ Ce qui détermine le classement des delegates, ce sont les votes que l'on attrib
 Derrière chaque vote, on vote avec la puissance de son wallet. Par exemple un un wallet possèdant 10 000 shifts aura un poid équivalent par rapport à 100 personnes qui possèdent un wallet de 100 shift chacun (100x100 = 10 000 shifts de vote power). 
 
 ### Comment créer un wallet ?
-L'équipe de développeur Shift n'a pa encore développer de wallet local mais c'est prévu. Ils n'ont qu'un wallet online pour le moment. (https://wallet.shiftnrg.org/) Vous cliquez sur "Nouveau compte" puis vous sauvegardez quelque part sur votre PC ou une clef usb la liste de mots que l'on vous donne. Cela sera votre mot de passe pour entrer sur votre wallet. 
+L'équipe de développeur Shift n'a pa encore développer de wallet local mais c'est prévu. Ils n'ont qu'un wallet online pour le moment ([Ici](https://wallet.shiftnrg.org/) )Vous cliquez sur "Nouveau compte" puis vous sauvegardez quelque part sur votre PC ou une clef usb la liste de mots que l'on vous donne. Cela sera votre mot de passe pour entrer sur votre wallet. 
 
 ### J'ai entendu parler de pool, c'est quoi la différence avec un delegate ?
 Une pool est un delegate qui reverse un montant de ces gains à ses votants. C'est une façon de remercier les votants d'avoir voter pour lui. Cela fait fonctionner le réseau également. 
