@@ -36,7 +36,9 @@ https://image.prntscr.com/image/lwX1bnbqStq9svZXrMAmoQ.png
 
 Après cela il faut se rendre dans le menu "Forger" puis cliquer sur "Délegué" et la on peut écrire le nom des pools et les selectionner au fur et à mesure. Vous pouvez voir la liste en cours en cliquant sur "Voir la selection". Attendez d'en avoir 33 avant de voter !
 
-Voici la liste des pools qui payent (30) :
+Vous allez donc payer qu'un seul shift pour voter pour les 30 delegate ci-dessous.
+
+Voici la liste :
 
 - forumfinancejv (ça c'est moi)
 - seatrips
@@ -69,6 +71,14 @@ Voici la liste des pools qui payent (30) :
 - worldcoinpool
 - worldshift
 
-Certains ne sont pas encore top 101 mais ils vont le devenir rapidemment. Une lotterie sera mise en place chaque semaine une fois la pool "forumfinancejv" dans le top 101. Cette lotterie sera exclusivemment pour le forum.
+Certains ne sont pas encore top 101 mais ils vont le devenir rapidemment. 
+
+### J'y gagne quoi concrètement ?
+Pas grand chose, c'est certain. Mais si vous êtes destiné à hold du shift, c'est mieux que laisser dormir son argent sur bittrex. Ensuite cela dépend du nombre votant, vous n'aurez jamais le même montant de shift. Avec 100 shifts hold, je pense que l'on peut espérer  1,5 shift par mois à ce jour. 
+
+Pour palier ce gain assez pauvre j'organiserais une lotterie toutes les semaines entre les personnes du forum. Les gains seront plus significatifs que cela. 
+
+### Une lotterie ?
+Une lotterie sera mise en place chaque semaine une fois la pool "forumfinancejv" dans le top 101. Cette lotterie sera exclusivemment pour le forum. A terme on peut espérer un gain de 30 shifts par semaine pour une personne tirée au hasard sur le forum. 
 
 Donation (shift) si vous avez apprécié la FAQ : 2628113835314385086S
