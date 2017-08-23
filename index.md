@@ -34,7 +34,7 @@ Tout d'abord, il faut transférer tes coins d'un site d'échange au wallet. L'ad
 
 Après cela il faut se rendre dans le menu "Forger" puis cliquer sur "Délegué" et la on peut écrire le nom des pools et les selectionner au fur et à mesure. Vous pouvez voir la liste en cours en cliquant sur "Voir la selection". Attendez d'en avoir 33 avant de voter !
 
-Vous allez donc payer qu'un seul shift pour voter pour la trentaine de delegate présent sur ce site : https://dpostools.com/SHIFT
+Vous allez donc payer qu'un seul shift pour voter pour la trentaine de delegate présent sur ce site : [https://dpostools.com/SHIFT](https://dpostools.com/SHIFT)
 (Ceux en vert uniquement)
 
 ### Quand est-ce que je suis payé ?
