@@ -34,42 +34,8 @@ Tout d'abord, il faut transférer tes coins d'un site d'échange au wallet. L'ad
 
 Après cela il faut se rendre dans le menu "Forger" puis cliquer sur "Délegué" et la on peut écrire le nom des pools et les selectionner au fur et à mesure. Vous pouvez voir la liste en cours en cliquant sur "Voir la selection". Attendez d'en avoir 33 avant de voter !
 
-Vous allez donc payer qu'un seul shift pour voter pour les 30 delegate ci-dessous.
-
-Voici la liste :
-
-- forumfinancejv (ça c'est moi)
-- seatrips
-- gregorst
-- official_pool
-- shiftraider
-- djandre
-- shiftspider
-- sio34
-- shiftpool
-- dimm86
-- stefanoproxy_pool
-- ampsicora
-- redpool
-- shozay_pool
-- vekexasia
-- trnp
-- kiashaan_amz
-- yondz
-- bitmyst
-- swminer90
-- hongkie
-- mg_pool
-- swimming_pool
-- peanhoy
-- ghostfaceuk
-- bran
-- kanieloutis
-- shiftcow
-- worldcoinpool
-- worldshift
-
-Certains ne sont pas encore top 101 mais ils vont le devenir rapidemment. 
+Vous allez donc payer qu'un seul shift pour voter pour la trentaine de delegate présent sur ce site : https://dpostools.com/SHIFT
+(Ceux en vert uniquement)
 
 ### Quand est-ce que je suis payé ?
 Cela dépend des pools. Certaines c'est tous les jours, d'autres toutes les semaines, d'autres encore tous les mois. Chacune à son fonctionnement. 
