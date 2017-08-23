@@ -1,5 +1,3 @@
-## FAQ SHIFT
-
 ### Comment sont générés les "Shift" ?
 Shift est une monnaie en dPoS (Delegate Proof of Stake). 
 
